@@ -55,5 +55,8 @@
     "complexity": "maximal",
     "style": "abstract",
     "detail": "detailed"
-  }
+  },
+  "repository": "coral-reef",
+  "owner": "morgtom99",
+  "basePath": ""
 }
