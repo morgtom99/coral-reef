@@ -1,0 +1,63 @@
+{
+  "id": "theme-coral-reef",
+  "title": "Coral Reef",
+  "description": "A vibrant and lively palette inspired by the rich colors of a coral reef.",
+  "owner": "morgtom99",
+  "repository": "coral-reef",
+  "seedPalette": [
+    "#e56865",
+    "#ff4d3d",
+    "#FFD700",
+    "#88B04B",
+    "#009B77",
+    "#738dca",
+    "#6B5B95"
+  ],
+  "colorConcepts": [
+    [
+      "coral",
+      "fish",
+      "flow"
+    ],
+    [
+      "clownfish",
+      "starfish",
+      "sea anemone"
+    ],
+    [
+      "sunlight",
+      "sand",
+      "beach"
+    ],
+    [
+      "seaweed",
+      "algae",
+      "turtle"
+    ],
+    [
+      "current",
+      "ripple",
+      "wave"
+    ],
+    [
+      "deep",
+      "ocean",
+      "whale"
+    ],
+    [
+      "urchin",
+      "octopus",
+      "seashell"
+    ]
+  ],
+  "primary": "5 100% 70%",
+  "background": "180 25% 25%",
+  "accent": "180 25% 35%",
+  "imageStyle": {
+    "complexity": "maximal",
+    "style": "abstract",
+    "detail": "detailed",
+    "dimension": "3d",
+    "lighting": "ambient"
+  }
+}
