@@ -58,16 +58,43 @@
     "style": "abstract",
     "detail": "detailed",
     "dimension": "3d",
-    "lighting": "ambient",
-    "texture": "none"
+    "lighting": "ambient"
   },
-  "colorDescriptions": [
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
+  "conceptPrompts": [
+    [
+      "[Subject: CORAL]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #e56865.",
+      "[Subject: FISH]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #e56865.",
+      "[Subject: FLOW]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #e56865."
+    ],
+    [
+      "[Subject: CLOWNFISH]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #ff4d3d.",
+      "[Subject: STARFISH]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #ff4d3d.",
+      "[Subject: SEA ANEMONE]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #ff4d3d."
+    ],
+    [
+      "[Subject: SUNLIGHT]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #FFD700.",
+      "[Subject: SAND]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #FFD700.",
+      "[Subject: BEACH]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #FFD700."
+    ],
+    [
+      "[Subject: SEAWEED]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #88B04B.",
+      "[Subject: ALGAE]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #88B04B.",
+      "[Subject: TURTLE]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #88B04B."
+    ],
+    [
+      "[Subject: CURRENT]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #009B77.",
+      "[Subject: RIPPLE]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #009B77.",
+      "[Subject: WAVE]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #009B77."
+    ],
+    [
+      "[Subject: DEEP]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #738dca.",
+      "[Subject: OCEAN]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #738dca.",
+      "[Subject: WHALE]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #738dca."
+    ],
+    [
+      "[Subject: URCHIN]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #6B5B95.",
+      "[Subject: OCTOPUS]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #6B5B95.",
+      "[Subject: SEASHELL]. A high-fidelity abstract aesthetic. Theme: Coral Reef. Aesthetic Context: A vibrant and lively palette inspired by the rich colors of a coral reef.. Parameters: 3d dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #6B5B95."
+    ]
   ]
 }
